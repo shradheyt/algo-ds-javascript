@@ -1,5 +1,5 @@
 /* 
-    Find odds and return array using recursion
+    Find odds and return array using helper method recursion
 */
 
 collectOdds = function(numArray) {
